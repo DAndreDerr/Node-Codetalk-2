@@ -1,20 +1,20 @@
 // What is a promise?
-//      A promise is an object that represents the eventual completion or failure of an 
-//      asynchronous operation and its value.
+    // A promise is an object that represents the eventual completion or failure of an 
+    // asynchronous operation and its value.
 
 // What are promises used for?
-//      Promises are used to handle asynchronous operations, this could be used when pulling data from a database/api/json, reading files, etc.
-//      Promises are a cleaner and more structured alternative to using callback functions
+    // Promises are used to handle asynchronous operations, this could be used when pulling data from a database/api/json, reading files, etc.
+    // Promises are a cleaner and more structured alternative to using callback functions
 
 // What are pro/cons to using a promise?
-//      Some pros:
-//          Avoiding callback hell
-//          Improved readability
-//          Chaining (promises can be easily chained together)
-//      Some cons:
-//          Not supported natively with older browsers 
-//          Dealing with erors can be challenging when working with a promise chain
-//          promise hell (when  promises are nested od and not properly maintained)
+    // Some pros:
+        // Avoiding callback hell
+        // Improved readability
+        // Chaining (promises can be easily chained together)
+    // Some cons:
+        // Not supported natively with older browsers 
+        // Dealing with erors can be challenging when working with a promise chain
+        // promise hell (when  promises are nested od and not properly maintained)
 
 
 // Please code some examples of promises to show to the class.
